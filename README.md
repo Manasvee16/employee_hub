@@ -1,22 +1,14 @@
-# Welcome to your Lovable project
+# Employee Hub
 
-## Project info
+A comprehensive employee management and task tracking system built with React, TypeScript, and Tailwind CSS.
 
-**URL**: https://lovable.dev/projects/69a31f45-aacf-4903-98eb-4087fcbb1a26
+## Project Overview
 
-## How can I edit this code?
+Employee Hub is a modern web application designed to streamline employee management and workload visualization. It provides an intuitive interface for managing employee information, assigning tasks, and monitoring work distribution.
 
-There are several ways of editing your application.
+## Getting Started
 
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/69a31f45-aacf-4903-98eb-4087fcbb1a26) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+To work locally using your own IDE, follow these steps:
 
 The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
@@ -62,12 +54,9 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/69a31f45-aacf-4903-98eb-4087fcbb1a26) and click on Share -> Publish.
+You can deploy this project to various platforms such as Vercel, Netlify, or any static hosting service:
 
-## Can I connect a custom domain to my Lovable project?
+1. Build the project: `npm run build`
+2. Deploy the `dist` folder to your hosting provider
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+For more deployment options, refer to the [Vite deployment guide](https://vitejs.dev/guide/static-deploy.html).
